@@ -1,1 +1,1 @@
-# yii2-hejiang-event
+# yii2-mall-event

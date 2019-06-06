@@ -1,5 +1,5 @@
 {
-    "name": "qianlizeguo/yii2-hejiang-event",
+    "name": "qianlizeguo/yii2-mall-event",
     "description": "A event dispatcher for plugin system, make event mounting / dispatching easily.",
     "type": "library",
     "require": {
