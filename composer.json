@@ -1,0 +1,22 @@
+{
+    "name": "qianlizeguo/yii2-hejiang-event",
+    "description": "A event dispatcher for plugin system, make event mounting / dispatching easily.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "^2.0",
+        "evenement/evenement": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Black",
+            "email": "1723877247@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hejiang\\Event\\": "lib/",
+            "Hejiang\\Event\\Tests\\": "tests/"
+        }
+    }
+}
